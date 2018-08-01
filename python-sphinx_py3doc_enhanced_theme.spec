@@ -10,7 +10,7 @@ Version:	2.4.0
 Release:	2
 License:	BSD
 Group:		Libraries/Python
-#Source0Download: https://pypi.python.org/simple/sphinx_py3doc_enhanced_theme
+#Source0Download: https://pypi.org/simple/sphinx_py3doc_enhanced_theme/
 Source0:	https://files.pythonhosted.org/packages/source/s/sphinx_py3doc_enhanced_theme/sphinx-py3doc-enhanced-theme-%{version}.tar.gz
 # Source0-md5:	38af7b770835cca10a6034abdcc58989
 URL:		https://github.com/ionelmc/sphinx-py3doc-enhanced-theme
