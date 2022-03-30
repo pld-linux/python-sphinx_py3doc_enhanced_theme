@@ -7,7 +7,7 @@ Summary:	Enhanced Sphinx theme (based on Python 3 docs)
 Summary(pl.UTF-8):	Rozszerzony motyw dla Sphinksa (oparty na dokumentacji Pythona 3)
 Name:		python-sphinx_py3doc_enhanced_theme
 Version:	2.4.0
-Release:	6
+Release:	7
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx_py3doc_enhanced_theme/
